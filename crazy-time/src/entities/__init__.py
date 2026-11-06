@@ -1,0 +1,1 @@
+"""Entidades reutilizables del juego."""
